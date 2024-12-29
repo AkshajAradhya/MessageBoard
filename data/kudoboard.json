@@ -1,0 +1,16 @@
+[
+    {
+        "content": "hello 1",
+        "x": 143,
+        "y": 72,
+        "width": 87,
+        "height": 50
+    },
+    {
+        "content": "cthis",
+        "x": 100,
+        "y": 100,
+        "width": 200,
+        "height": 100
+    }
+]
